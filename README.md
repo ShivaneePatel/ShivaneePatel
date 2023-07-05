@@ -1,6 +1,6 @@
 ###  Hello👋 World !
 Welcome to my Github profile.
-<h1 align="center">Hi 👋 I'm @Shivanee Patel and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely! I've always been a person that if I didn't know how to make something I'd find out how to do it, so programming has been a perfect fit for me.</h1>
+<h5 align="center">Hi 👋 I'm @Shivanee Patel and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely! I've always been a person that if I didn't know how to make something I'd find out how to do it, so programming has been a perfect fit for me.</h5>
 <h3 align="center">I’m interested in web development, programming etc.</h3>
 <img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/free/preview/women-web-developer-with-laptop-2040890-1721886.png?w=0&h=700">
 
