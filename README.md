@@ -1,5 +1,3 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-
 ###  Hello👋 World !
 Welcome to my Github profile.
 <h5 align="center">Hi 👋 I'm @Shivanee Patel and for a long time I've wanted to start programming. This quarantine I had an opportunity to focus on it and change my life completely! I've always been a person that if I didn't know how to make something I'd find out how to do it, so programming has been a perfect fit for me.</h5>
@@ -18,7 +16,9 @@ Welcome to my Github profile.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivanee-patel-476045216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanee-patel-476045216/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivanee-patel-476045216/" target="blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanee-patel-476045216/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
