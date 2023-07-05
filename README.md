@@ -12,6 +12,8 @@ Welcome to my Github profile.
 
 - 💬 Ask me about **Technologies Programming soft skills**
 
+- - 📫 How to reach me **shivaneep8@gmail.com**
+
 - ⚡ Fun fact **I like movies, books, all things narrative and also love to create**
 
 <h3 align="left">Connect with me:</h3>
