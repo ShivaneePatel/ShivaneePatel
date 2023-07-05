@@ -16,7 +16,7 @@ Welcome to my Github profile.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivanee-patel-476045216/">
+<a href="https:/www.linkedin.com/in/shivanee-patel-476045216/">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
  <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanee-patel-476045216/" height="30" width="40" /></a>
 </p>
